@@ -3,7 +3,7 @@
 Author : Hariharan T
 Dataset : https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 
-Documentation : https://github.com/GoppyKrishna-77/SentimentAnalysis-NMV/blob/master/Project.ppt
+Documentation : https://github.com/hariharanthangaraj/nan-mudhalvan/Project.ppt
 
 Source Code : https://github.com/hariharanthangaraj/nan-mudhalvan/NMV.ipynb
 
